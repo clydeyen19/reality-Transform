@@ -1,4 +1,4 @@
-# reality-transformer
+# reality-animate transformer
 
 
 ### Install packages
